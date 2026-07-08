@@ -9,9 +9,6 @@
 - Fetches server details using the MCSrvStat API  
 - Clean and professional Discord embeds  
 
-**Credits:**  
-- This bot was developed by Kaloudas. Special thanks to all contributors and the Discord community for their support and valuable feedback.  
-
 **License:**  
 - This project is open-source and available under the GNU General Public License v3.0.  
 
